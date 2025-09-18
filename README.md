@@ -1,5 +1,5 @@
 <h1>Desafio amigo secreto</h1>
-Estado del proyecto: en proceso
+Estado del proyecto: cocluido
 
 # 🎁 Amigo Secreto: Aplicación de Sorteo Aleatorio
 
